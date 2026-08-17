@@ -1,4 +1,4 @@
-﻿# Student-Grade-Analyser
+
 # Student Grade Analyzer
 
 ## 📌 About the Project
